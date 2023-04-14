@@ -1,16 +1,24 @@
-# bubble_tea
+![header](https://capsule-render.vercel.app/api?type=waving&&color=auto&height=200&section=header&text=BubbleTeaHouse🧋&fontSize=65)
 
-A new Flutter project.
+### Bubble Tea House
 
-## Getting Started
+> 버블티 하우스를 위한 크로스 플랫폼 개발
 
-This project is a starting point for a Flutter application.
+- mac OS 및 iOS 환경 테스트 완료(23.04.14)
+-
 
-A few resources to get you started if this is your first Flutter project:
+> To-Do List
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 반응형 UI 개선
+- models 부분 개선
+- 로그인 및 회원가입 연동
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> 기술 Stack
+
+- Flutter + Dart
+
+> 개발 화면 예시
+
+<img src="./assets/images/bubble-tea1.png" width="150px">
+<img src="./assets/images/bubble-tea2.png" width="150px">
+<img src="./assets/images/bubble-tea3.png" width="150px">
