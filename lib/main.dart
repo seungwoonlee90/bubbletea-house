@@ -1,5 +1,5 @@
 import 'package:bubble_tea/models/shop.dart';
-import 'package:bubble_tea/pages/home_page.dart';
+import 'package:bubble_tea/pages/login_page.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
@@ -22,6 +22,6 @@ class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
-    return const HomePage();
+    return LogInPage();
   }
 }
